@@ -1,2 +1,18 @@
-# Driver-Drowsiness-Detection-System
-Webcam-based Driver Drowsiness Detection System using Python, OpenCV, and MediaPipe. Detects eye closure and yawning in real time and triggers alerts to improve road safety.
+# Driver Drowsiness Detection System
+
+A webcam-based driver drowsiness detection system developed as part of university coursework.  
+The system detects eye blinks and yawning using facial landmark analysis and triggers alerts
+when signs of driver fatigue are detected.
+
+## Features
+- Real-time webcam monitoring
+- Eye-blink detection
+- Yawning detection
+- Audio/visual alert system
+- Lightweight and rule-based logic
+
+## Technologies Used
+- Python
+- OpenCV
+- MediaPipe
+- NumPy
