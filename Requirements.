@@ -1,0 +1,3 @@
+opencv-python    # Used for webcam access, video frame processing, and displaying real-time alerts
+mediapipe        # Used for facial landmark detection to track eye blinking and yawning
+numpy            # Used for numerical calculations such as distance and ratio computations
